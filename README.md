@@ -1,4 +1,5 @@
 Job Board App
+
 A Job Board Application built with React and Tailwind CSS that displays job listings and allows users to view job details.
 
 Features
@@ -33,7 +34,9 @@ npm install
 Set up the .env file in the server folder:
 
 env
+
 Copy
+
 MONGO_URI=your-mongo-db-uri
 PORT=3000
 Start the servers:
